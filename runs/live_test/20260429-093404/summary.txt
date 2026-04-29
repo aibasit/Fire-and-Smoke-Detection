@@ -1,0 +1,9 @@
+Fire and Smoke Detection Session Summary
+Source: 0
+Frames processed: 53
+Fire detections: 0
+Smoke detections: 1
+Saved detection snapshots: 0
+
+Snapshots:
+None
