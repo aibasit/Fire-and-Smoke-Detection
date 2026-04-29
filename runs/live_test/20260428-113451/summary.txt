@@ -1,0 +1,18 @@
+Fire and Smoke Detection Session Summary
+Source: 0
+Frames processed: 683
+Fire detections: 18
+Smoke detections: 2
+Saved detection snapshots: 10
+
+Snapshots:
+runs\live_test\20260428-113451\fire_20260428-113543.jpg
+runs\live_test\20260428-113451\fire_20260428-113631.jpg
+runs\live_test\20260428-113451\fire_20260428-113635.jpg
+runs\live_test\20260428-113451\fire_20260428-113643.jpg
+runs\live_test\20260428-113451\fire_20260428-113646.jpg
+runs\live_test\20260428-113451\fire_20260428-113756.jpg
+runs\live_test\20260428-113451\fire_20260428-113804.jpg
+runs\live_test\20260428-113451\fire_20260428-113820.jpg
+runs\live_test\20260428-113451\fire_20260428-113831.jpg
+runs\live_test\20260428-113451\fire_20260428-113926.jpg
